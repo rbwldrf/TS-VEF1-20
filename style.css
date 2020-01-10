@@ -1,7 +1,7 @@
 html {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     max-width: 800px;
-    margin: 8px auto;
+    margin: 0.5em auto;
     border: 1px solid blue;
 }
 
