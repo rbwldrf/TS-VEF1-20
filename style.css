@@ -3,16 +3,21 @@ html {
     max-width: 800px;
     margin: 0.5em auto;
     border: 1px solid blue;
+    font-size: 16px;
+}
+
+body{
+    padding: 0.5em;
 }
 
 h1 {
     color: blue;
     font-variant: small-caps;
     text-align: center;
-    margin: 1.5em;
+    margin: 1.25em;
 }
 
-h2 {
+.maroon {
     color: maroon;
 }
 
@@ -30,4 +35,8 @@ h2 {
 }
 #namskrofur-texti ul{
     color:seagreen;
+}
+
+.centered{
+    text-align: center;
 }
